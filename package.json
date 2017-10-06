@@ -1,0 +1,23 @@
+{
+  "name": "request_header_parser",
+  "version": "0.0.1",
+  "description": "microservice that returns header information: IP address, language and operating sytem for the browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoonable/Request_Header_Parser.git"
+  },
+  "keywords": [
+    "header",
+    "parser"
+  ],
+  "author": "binh khuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spoonable/Request_Header_Parser/issues"
+  },
+  "homepage": "https://github.com/spoonable/Request_Header_Parser#readme"
+}
